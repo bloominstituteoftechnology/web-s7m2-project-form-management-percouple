@@ -12,7 +12,7 @@ To successfully complete this project, you will need the following technical kno
 2. **State hook** to track the values entered into the form.
 3. **Effect hook** to repopulate the form under certain conditions.
 4. **Event handlers** to change inputs and submit the form.
-5. **Controlled inputs** so they take their values from state.
+5. **Controlled inputs** so they take their values from state. 
 
 ## Instructions
 
